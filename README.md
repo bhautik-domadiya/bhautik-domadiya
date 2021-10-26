@@ -5,17 +5,9 @@
 - 🔭 I’m currently working as MERN Stack and MEAN Stack
 - 🌱 I’m currently learning DevOps and Cloud
 - 💬 Ask me about Frontend and BackEnd Technologies
-- 📫 How to reach me: [Twitter @bhautik_domz](https://twitter.com/bhautik_domz) &  [Linkedin](https://www.linkedin.com/in/bhautik-domadiya)
+- 📫 How to reach me: [Twitter @bhautik_domz](https://twitter.com/bhautik_domz)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love to Coding!
-
-## Find me around the web 🌍
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/bhautik-domadiya"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://twitter.com/bhautik_domz"><img alt=Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
- <a href="https://www.hackerrank.com/bhautikdomadiya"> <img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-008000?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-</div>
 
 ## My skills 🚀
 
